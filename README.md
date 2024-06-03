@@ -24,6 +24,16 @@ This study utilises the previous full-year (2023) Cyclistic ride data. The datas
 
 The raw data may be accessed [here.](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
+Summary of changes made to the raw dataset: 
+| Change | Description |
+| ------ | ----------- | 
+| Compiled raw datasets | The raw data, available in distinct monthly comma-separated values files (.csv), was combined to create a single .csv file containing data for the full year 2023. |
+| Ordered chronologically | The data were ordered chronologically. |
+| Addition of 'day_of_week' column | A new column was generated that contained the day of the week that each ride was conducted on. | 
+| Addition of 'ride_length' column | A new column was generated that provided the length of the corresponding ride in minutes. |
+| Removal of negative ride_lengths | Any data that had a negative ride length was dropped from the data set. |
+| Removal of outliers | Outliers were defined as those who were in the 1st and the 99th percentile of the ride_length data and were dropped from the table as they were not seen to be legitimate data points. |
+
 # Presentation
 [Link to presentation (hosted on OneDrive)](https://1drv.ms/p/s!AsJSX1V3eGPe9wGpaJEe8EyyUJV4?e=mSLxwV)
 # Dashboard
