@@ -34,6 +34,41 @@ Summary of changes made to the raw dataset:
 | Removal of negative ride_lengths | Any data that had a negative ride length was dropped from the data set. |
 | Removal of outliers | Outliers were defined as those who were in the 1st and the 99th percentile of the ride_length data and were dropped from the table as they were not seen to be legitimate data points. |
 
+# The Analysis
+
+Upon analysis, the following observations were noted about Cyclistic casual users:
+1. Casual users prefer electric bikes
+2. Casual users took longer rides​ on average
+3. Casual users are part of the evening commuter crowd​
+4. Casual users are more active on weekends​
+5. Casual users are more active during the summer​
+6. Casual users visit more touristic and recreational locations
+
+By taking what we know about our casual users, we can develop a story to describe who they are. 
+
+> # The Regular
+> They're the part of the casual user base who ride during the week, in commuter hours. They use the service regularly to get from A to B, but they haven't yet made the leap to an annual subscription. They're probably residents of Chicago. 
+> * Resident​
+> * High familiarity with Cyclistic​
+> * Often uses Cyclistic for commuting or recreation​
+> * Has not yet made the leap to annual membership​
+> * High potential for conversion
+
+> # The Opportunist
+> The part of the casual user base who's more active outside of commuter hours, during the week or on weekends. They visit more recreational and touristic locations. They use Cyclistic sporadically. They're probably residents of Chicago.
+> * Resident​
+> * Low familiarity with Cyclistic​
+> * Sporadically uses Cyclistic for getting around the city and recreation​
+> * Potential for conversion, but we must first increase their frequency of use
+
+> # The Tourist
+> The part of the casual user base who are more active during summer, on weekends, during the middle of the day. They're not residents of Chicago, and are in town for a short while and are trying out Cyclistic to get from A to B during their stay. They like to visit the touristic and recreational parts of Chicago.
+> * Non-resident​
+> * Short stay in Chicago ​
+> * Unlikely to subscribe annually​
+> * High demand for mobility during stay​
+> * Potential for short-term capture
+
 # Presentation
 [Link to presentation (hosted on OneDrive)](https://1drv.ms/p/s!AsJSX1V3eGPe9wGpaJEe8EyyUJV4?e=mSLxwV)
 # Dashboard
