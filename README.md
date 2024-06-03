@@ -1,4 +1,4 @@
-Brief
+# Brief
 
 Cyclistic is a bike-share company that launched in 2016 and is based in Chicago. It operates 5,824 bicycles across 692 docking stations. It offers flexible pricing plans: single ride passes; full-day passes; and annual memberships. Those customers who purchase single ride or full-day passes are referred to by the company as casual riders while those who purchase annual memberships are referred to as Cyclistic members. The finance team at Cyclistic have concluded that annual members are significantly more profitable than casual users. Lily Moreno, Cyclistic’s director of marketing, believes that the key to future growth lies in maximising the number of annual members.
 
@@ -12,9 +12,11 @@ To fulfil the task, the following deliverables must be met:
 5.	Supporting visualisations and key findings 
 6.	Offer three recommendations based on the analysis
    
-The Business Task
+# The Business Task
+
 Cyclistic is seeking to boost its profits by running a marketing campaign to convert non-recurring customers to annual memberships. The aim of this study is to analyse historical ride data to understand how non-recurring customers and members use the service differently so that Cyclistic may understand what drives customers to subscribe and subsequently direct a marketing campaign to convert these customers. 
 
-The Data
+# The Data
+
 (Note: Cyclistic is a fictional company and makes used of the data which is originally provided by Motivate International Inc. and may be accessed here and used under the license agreement.) 
 This study utilises the previous full-year (2023) Cyclistic ride data. The dataset contains ride information such as the starting and finishing time and location, the type of bike used, and the membership status of the user. It has been stripped of any data which may be used to identify customers. The 2023 dataset contains data on a total of 5,719,877 individual rides.
