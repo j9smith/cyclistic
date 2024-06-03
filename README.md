@@ -69,6 +69,28 @@ By taking what we know about our casual users, we can develop a story to describ
 > * High demand for mobility during stay​
 > * Potential for short-term capture
 
+# Recommendations
+
+By taking what we learned about our customers during the analysis stage and the customer profiles we built upon that information, we can begin to develop a tailored approach to each segment: 
+
+> # The Regular
+> Ripe for conversion. We just need to give them a nudge to subscribe. Repeat exposure to the member benefits should drive subscriptions. Success will be measured by the conversion rate for this segment.
+> * **E-mail campaign:** targeting ‘ready-to-subscribe’ regular users highlighting benefits of subscribing, e.g., cost savings, health benefits, avoiding city traffic, etc. ​
+> * **In-app promotions:** In-app promotions, e.g., flash discounts for subscriptions, highlight cost savings based on their usage, etc.
+> * **Surge pricing:** Introduce surge pricing for casual users. Price will increase during peak hours providing economic incentive for regular commuters and weekend users to subscribe. ​
+
+> # The Opportunist
+> Occasionally uses the service. Unlikely to subscribe at this stage. We’ll have to convince or incentivise them to use the service more, and then we can convert. Repeat exposure will increase their familiarity with the brand and hopefully boost usage. Success will be measured by the usage rate of casual users (how many ride minutes are they using per week?).  
+> * **E-mail campaign:** E-mail campaign targeting ‘early-stage’ registered users highlighting benefits of continuing to ride with Cyclistic, e.g., health benefits, avoiding city traffic, environmentally friendly, etc. Pair with offers and discounts.
+> * **In-app promotions:** In-app promotions, e.g., flash discounts for subscriptions, highlight cost savings based on their usage, challenges, fitness programs, etc.
+
+> # The Tourist
+> Non-resident. Has high mobility needs during their stay. Highly unlikely to subscribe annually, but there is potential to capture their custom for the short term. We'll do this by introducing the service to them via a free trial (one-day pass), and then upsell at the end of this free trial to a one-week pass. Success will be measured by the return-rate of free-trial users and of the uptake of one-week passes.
+> * **Physical advertising:** Physical media campaign in the busiest stations for casual users. Highlight perks of using Cyclistic (avoid traffic, experience city, etc.). Pitch with free daily pass to introduce users to the service. 
+> * **Weekly pass:** Introduce a weekly pass to capture the ‘tourist/visitor’ segment. This will incentivise repeat use across their visit while increasing revenue. 
+> * **One free daily pass:** Offer QR codes for one free daily pass to new users. This will allow the product to speak for itself. Follow up by pitching weekly pass to secure custom. 
+> * **Appearing in tourism searches (SEO/Google Ads):** Targeted promotion to internet users searching for tourism in Chicago (SEO/ads). ‘Visiting Chicago? Try Cyclistic.’ Drive uptake via free one-day passes. 
+
 # Presentation
 [Link to presentation (hosted on OneDrive)](https://1drv.ms/p/s!AsJSX1V3eGPe9wGpaJEe8EyyUJV4?e=mSLxwV)
 # Dashboard
