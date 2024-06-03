@@ -22,6 +22,8 @@ Cyclistic is seeking to boost its profits by running a marketing campaign to con
 
 This study utilises the previous full-year (2023) Cyclistic ride data. The dataset contains ride information such as the starting and finishing time and location, the type of bike used, and the membership status of the user. It has been stripped of any data which may be used to identify customers. The 2023 dataset contains data on a total of 5,719,877 individual rides.
 
+The raw data may be accessed [here.](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 # Presentation
 [Link to presentation (hosted on OneDrive)](https://1drv.ms/p/s!AsJSX1V3eGPe9wGpaJEe8EyyUJV4?e=mSLxwV)
 # Dashboard
