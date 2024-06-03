@@ -21,3 +21,9 @@ Cyclistic is seeking to boost its profits by running a marketing campaign to con
 (**Note**: Cyclistic is a fictional company and makes used of the data which is originally provided by Motivate International Inc. and may be accessed here and used under the license agreement.) 
 
 This study utilises the previous full-year (2023) Cyclistic ride data. The dataset contains ride information such as the starting and finishing time and location, the type of bike used, and the membership status of the user. It has been stripped of any data which may be used to identify customers. The 2023 dataset contains data on a total of 5,719,877 individual rides.
+
+# Presentation
+[Link to presentation (hosted on OneDrive)](https://1drv.ms/p/s!AsJSX1V3eGPe9wGpaJEe8EyyUJV4?e=mSLxwV)
+# Dashboard
+[Link to dashboard (hosted on Tableau Public)](https://public.tableau.com/views/Cyclistic_17165555896180/FinalDash?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
